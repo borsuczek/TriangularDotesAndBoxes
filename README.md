@@ -37,4 +37,4 @@ The computer players use algorithms to determine valid moves. The strategy varie
 - **Hard (Strategic)**: The computer evaluates potential moves based on whether they can form a triangle or if it would allow the opponent to do so. It uses a profit matrix to calculate the value of each move, prioritizing those that complete a triangle. The computer recursively analyzes possible future moves to minimize the opponent's gains.
 
 ## Credits
-This game was created by Aleksandra Borsuk and Kajetan Siebieszuk.
+This game was created by [Aleksandra Borsuk](https://github.com/borsuczek) and [Kajetan Siebieszuk](https://github.com/Kajeszuk).
